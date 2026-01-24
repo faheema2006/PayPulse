@@ -1,0 +1,4 @@
+payment_mode,total_txn,failures,failure_rate_%
+Credit Card,5007,860,17.175953664869184
+Debit Card,4977,926,18.605585694193287
+UPI,5016,898,17.902711323763956
