@@ -24,3 +24,7 @@ PayPulse is an end-to-end analytics project that detects, analyzes, and visualiz
 1. Run `generate_transactions.py`
 2. Run `features.py`
 3. Refresh Power BI dashboard
+
+## Dashboard Preview
+![PayPulse Dashboard](screenshots/dashboard.png)
+
